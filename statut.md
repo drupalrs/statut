@@ -4,7 +4,7 @@ U skladu sa odredbama čl. 10., 11. i 12. Zakona o udruženjima (Službeni list 
 ## Udruženja “ДРУПАЛ СРБИЈА”
 
 ### Član 1. ###
-ДРУПАЛ СРБИЈА  (u daljem tekstu: Udruženje) osnovano je kao nestranačko, nevladino i neprofitno udruženje građana, osnovano radi ostvarivanja ciljeva u oblasti promovisanja Drupal CMS-a kao razvojne platforme.
+Udruženje ДРУПАЛ СРБИЈА  (u daljem tekstu: Udruženje) je dobrovoljno, nestranačko, nevladino i neprofitno udruženje građana, osnovano radi ostvarivanja ciljeva u oblasti promovisanja Drupal CMS-a kao razvojne platforme.
 
 ### Član 2. ###
 Ciljevi i zadaci Udruženja su promovisanje Drupal CMS-a kao platforme za razvoj računarskih programa, novih tehnologija, interneta i ostalih broadband i društvenih mreža,  kao i novih trendova u načinimа kolaboracije i razvojа programskih rešenja.
