@@ -29,21 +29,23 @@ Udruženje svoju delatnost obavlja na teritoriji __Republike Srbije__.
 
 ### Član 5. ###
 
-Za člana Udruženja može da se kandiduje svako lice koje prihvata ciljeve Udruženja i Statut, a na osnovu preporuke jednog od članova i podnese prijavu za učlanjenje skupštini Udruženja.
-
+Članovi Udruženja mogu biti
+1. redovni
+2. počasni 
+Za redovnog člana Udruženja može da se kandiduje svako lice koje prihvata Statut Udruženja, a na osnovu preporuke jednog od redovnih članova. Kandidat za redovnog člana podnosi pristupnicu za učlanjenje Upravnom odboru Udruženja.
 Maloletno lice sa navršenih 14 godina života može se učlaniti u udrženje uz prilaganje overene izjave njegovog zakonskog zastupnika o davanju saglasnosti.
-
 Za lice mlađe od 14 godina iz stava 1 ovog člana prijavu podnosi njegov zakonski zastupnik.
+Odluku o prijemu u redovno članstvo donosi  Upravni odbor Udruženja većinom glasova a o ishodu pismeno obaveštava kandidata.
 
-Odluku o prijemu u članstvo donosi skupština udruženja većinom glasova.
+Redovni član može podneti obrazloženi predlog za prijem počasnog člana u Udruženje.
+Počasni član može biti fizičko i pravno lice.
+Odluku o prijemu počasnog člana donosi Upravni odbor Udruženja a o ishodu pismeno obaveštava podnosioca predloga i počasnog člana ukoliko je primljen u Udruženje.
+Počasni član ne plaća članarinu i mora prihvatiti Statut Udruženja.
+Ukoliko je počasni član pravno lice ono dostavlja informaciju o svom predstavniku.
 
-Članstvo se stiče potpisivanjem pristupnice.
-
-Član može istupiti iz članstva davanjem pismene izjave o istupanju.
-
-Članstvo u Udruženju prestaje i dužom neaktivnošću člana.
-
-Odluku o prestanku članstva donosi Skupština.
+Protiv odluke o prijemu u članstvo kandidat može uputiti žalbu Skupštini Udruženja, čija je odluka konačna. 
+Udruženje izdaje članske karte i vodi evidenciju članova.
+Redovni članovi plaćaju članarinu a iznos članarine Udruženja i rok za placanje definiše se posebnim Aktom koji donosi Upravni odbor Udruženja.
 
 ### Član 6. ###
 
