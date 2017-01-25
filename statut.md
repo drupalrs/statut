@@ -22,7 +22,7 @@ otvara izložbeno edukativne centre na regionalnom nivou i nivou lokalnih samoup
 
 ### Član 4. ###
 
-Naziv Udruženja je: __“ДРУПАЛ СРБИЈА”__  
+Naziv Udruženja je: __ДРУПАЛ СРБИЈА__  
 Naziv Udruženja na engleskom jeziku: __DRUPAL SERBIA__  
 Udruženje ima sedište u __Novom Sadu__.  
 Udruženje svoju delatnost obavlja na teritoriji __Republike Srbije__.
